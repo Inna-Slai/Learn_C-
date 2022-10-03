@@ -1,0 +1,15 @@
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.csproj.AssemblyReference.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.GeneratedMSBuildEditorConfig.editorconfig
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.AssemblyInfoInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.AssemblyInfo.cs
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.csproj.CoreCompileInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\bin\Debug\net6.0\Ex004_Div.exe
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\bin\Debug\net6.0\Ex004_Div.deps.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\bin\Debug\net6.0\Ex004_Div.runtimeconfig.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\bin\Debug\net6.0\Ex004_Div.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\bin\Debug\net6.0\Ex004_Div.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\refint\Ex004_Div.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\Ex004_Div.genruntimeconfig.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex004_Div\obj\Debug\net6.0\ref\Ex004_Div.dll

@@ -1,0 +1,15 @@
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+G:\Инна\GeekBrains ОБУЧЕНИЕ\4. Знакомство с языками программирования\Лекции\1\Обучение С# первое занятие\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
